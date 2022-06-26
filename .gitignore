@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+.ok_history
+.ok_storage.db
+*.pyc
+
+programming-foundations/ucb-cs61a/projects/scheme_stubbed/
